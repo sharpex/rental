@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.044d2058.css",
+    "main.js": "./static/js/main.6f771743.js",
+    "static/js/714.1a40250b.chunk.js": "./static/js/714.1a40250b.chunk.js",
+    "static/js/91.b4bbf5ca.chunk.js": "./static/js/91.b4bbf5ca.chunk.js",
+    "static/js/139.860609e5.chunk.js": "./static/js/139.860609e5.chunk.js",
+    "static/js/474.0275ad1c.chunk.js": "./static/js/474.0275ad1c.chunk.js",
+    "static/js/264.b4b7a43f.chunk.js": "./static/js/264.b4b7a43f.chunk.js",
+    "static/js/703.c4da5f81.chunk.js": "./static/js/703.c4da5f81.chunk.js",
+    "static/js/513.275724dc.chunk.js": "./static/js/513.275724dc.chunk.js",
+    "static/js/771.0e73bb6c.chunk.js": "./static/js/771.0e73bb6c.chunk.js",
+    "static/media/rental-management-tech-system-building.jpg": "./static/media/rental-management-tech-system-building.f43bb7a34390cab471d2.jpg",
+    "static/media/rental-management-tech-system-logo.jpg": "./static/media/rental-management-tech-system-logo.58a67d741e54dc057b98.jpg",
+    "static/media/rental-management-tech-system.png": "./static/media/rental-management-tech-system.f875b2e7b45ec2cdaafe.png",
+    "static/media/rental-management-tech-system-tenant.jpg": "./static/media/rental-management-tech-system-tenant.8a4c92885e62b7c97c77.jpg",
+    "static/media/rental-management-tech-system-expenses.jpg": "./static/media/rental-management-tech-system-expenses.a6b897fdb1b9f4c0d315.jpg",
+    "static/media/rental-management-tech-system-bills.jpg": "./static/media/rental-management-tech-system-bills.82229b32322b51d9fdf8.jpg",
+    "static/media/rental-management-tech-system-summary.jpg": "./static/media/rental-management-tech-system-summary.67678af913d0f0140430.jpg",
+    "static/media/rental-management-tech-system-owner.jpg": "./static/media/rental-management-tech-system-owner.619d548b6a4df2adf588.jpg",
+    "static/media/rental-management-tech-system-staff.jpg": "./static/media/rental-management-tech-system-staff.3a68b0b1fa1332a4e6e8.jpg",
+    "static/media/rental-management-tech-system-house.jpg": "./static/media/rental-management-tech-system-house.887ca391a1d933b66c75.jpg",
+    "index.html": "./index.html",
+    "main.044d2058.css.map": "./static/css/main.044d2058.css.map",
+    "main.6f771743.js.map": "./static/js/main.6f771743.js.map",
+    "714.1a40250b.chunk.js.map": "./static/js/714.1a40250b.chunk.js.map",
+    "91.b4bbf5ca.chunk.js.map": "./static/js/91.b4bbf5ca.chunk.js.map",
+    "139.860609e5.chunk.js.map": "./static/js/139.860609e5.chunk.js.map",
+    "474.0275ad1c.chunk.js.map": "./static/js/474.0275ad1c.chunk.js.map",
+    "264.b4b7a43f.chunk.js.map": "./static/js/264.b4b7a43f.chunk.js.map",
+    "703.c4da5f81.chunk.js.map": "./static/js/703.c4da5f81.chunk.js.map",
+    "513.275724dc.chunk.js.map": "./static/js/513.275724dc.chunk.js.map",
+    "771.0e73bb6c.chunk.js.map": "./static/js/771.0e73bb6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044d2058.css",
+    "static/js/main.6f771743.js"
+  ]
+}
